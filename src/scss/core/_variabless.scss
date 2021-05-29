@@ -1,0 +1,28 @@
+
+
+@font-face {
+    font-family: 'Rijkshead'; 
+    font-weight: 700;
+    src: url('../fonts/rijksoverheidsansheading-bold.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Rijkstxt'; 
+    font-weight: 400;
+    src: url('../fonts/rijksoverheidsanstext-regular.ttf') format("truetype");
+}
+
+// @font-face {
+//     font-family: 'Jakarta';
+//     src: url('../fonts/PlusJakartaSans-Regular.woff') format("woff");
+// }
+
+// COLORS
+
+$white             : #FFF;
+$black             : #001a27;
+$lightblue         : #CCE0F1;
+$lighterblue       : #E5F0F9;
+
+$rijkshead          : 'Rijkshead', sans-serif;
+$rijkstxt           : 'Rijkstxt', sans-serif;
