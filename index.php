@@ -29,6 +29,7 @@
                 <div class="intro_text_wrap">
                     <h2>Wat is Centraal Machtigen?</h2>
                     <p>Met het Centrale Machtigingen Register kunt u geholpen worden of iemand helpen met het regelen van zaken met de overheid. Door iemand te 'machtigen' of 'gemachtigd' te worden kan dit veilig, zonder uw DigiD af te geven.</p>
+                    <a target="_blank" rel="noopener" href="https://machtigen.digid.nl/">Machtigen</a>
                 </div>
             </div>
         </div>
